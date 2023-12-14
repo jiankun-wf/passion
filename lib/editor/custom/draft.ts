@@ -1,4 +1,4 @@
-import { fabric } from 'fabric';
+import { fabric } from "fabric";
 
 // 字稿表模板表格
 export class DraftGroup extends fabric.Group {
